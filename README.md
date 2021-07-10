@@ -1,6 +1,7 @@
 # machine_translation_vie
 
-Model includes:
+Model architecture:
+
 -  LSTM
--  Teacher Forcing
 -  Encoding Decoding 
+-  Teacher Forcing
