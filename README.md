@@ -4,4 +4,5 @@ Model architecture:
 
 -  LSTM
 -  Encoding Decoding 
+-  Attention
 -  Teacher Forcing
